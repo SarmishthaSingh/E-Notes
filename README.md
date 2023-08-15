@@ -1,1 +1,2 @@
 # E-Notes
+Designed and developed an innovative E-Notes application, combining the familiarity of sticky notes with modern technology. Leveraged    Bootstrap for a responsive and user-friendly front-end interface. Implemented, backend functionalities using Servlet, JSP, ensuring seamless data management. Incorporated MySQL database to securely   store and manage user-generated content, offering a data storage solution
